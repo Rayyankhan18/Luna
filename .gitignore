@@ -1,0 +1,8 @@
+__pycache__/
+*.json
+vosk-model/
+audio/output.wav
+.python-version
+.venv/
+.env
+*.log
